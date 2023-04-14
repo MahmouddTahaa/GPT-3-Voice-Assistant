@@ -1,4 +1,4 @@
-# Nova - Voice Assistant
+# 🤖 Nova - Voice Assistant
 Nova is an AI-powered voice assistant that uses OpenAI's GPT-3 to generate responses to prompts spoken by the user.
 
 ## Getting started
