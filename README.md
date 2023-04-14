@@ -13,7 +13,7 @@ To run the Nova voice assistant, you will need Python 3 installed on your comput
 3. Obtain and set the OpenAI API key.
 
 ## Using Nova
-Once you have the Nova voice assistant running, you can use it to generate responses to prompts spoken by the user. The interface consists of a single button that starts the recording process when clicked. Once the user has spoken a prompt, the system generates a response and speaks it back to the user.
+Once you have the Nova voice assistant running, you can use it to generate responses to prompts spoken by the user. The script only works in the terminal -as of right now- to start using the script use the **Wake Word** "Nova" or "Hi, nova", Wait for the script to respond then input your prompt using your microphone.
 
 ## Contributing
 If you would like to contribute to the Nova voice assistant project, you are welcome to submit pull requests or issues through the project's GitHub page.
