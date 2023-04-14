@@ -1,5 +1,5 @@
 # 🤖 Nova - Voice Assistant
-Nova is a GPT-3.5 Turbo based voice assistant that uses OpenAI's GPT-3 to generate responses to prompts spoken by the user.
+Nova is a GPT-3.5 Turbo based voice assistant that uses cutting edge AI technology to generate responses to prompts spoken by the user.
 
 ## Getting started
 To run the Nova voice assistant, you will need Python 3 installed on your computer, as well as a valid API key for OpenAI's GPT-3 service. You will also need to install the required Python modules.
